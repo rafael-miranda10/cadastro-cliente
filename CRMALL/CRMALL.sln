@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMALL.API", "CRMALL.API\CRMALL.API.csproj", "{6FA7F84E-050B-4D09-A3BF-B45E30477365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMALL.Domain", "CRMALL.Domain\CRMALL.Domain.csproj", "{0A0634BC-CD5B-4732-9A36-05595BC5B261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMALL.Data", "CRMALL.Data\CRMALL.Data.csproj", "{0E463A7C-C269-473B-AEA4-77AF89FB7424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMALL.IoC", "CRMALL.IoC\CRMALL.IoC.csproj", "{BDD43D2F-AE82-4D4B-8154-226DF2233141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA7F84E-050B-4D09-A3BF-B45E30477365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA7F84E-050B-4D09-A3BF-B45E30477365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA7F84E-050B-4D09-A3BF-B45E30477365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA7F84E-050B-4D09-A3BF-B45E30477365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0634BC-CD5B-4732-9A36-05595BC5B261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0634BC-CD5B-4732-9A36-05595BC5B261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0634BC-CD5B-4732-9A36-05595BC5B261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0634BC-CD5B-4732-9A36-05595BC5B261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E463A7C-C269-473B-AEA4-77AF89FB7424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E463A7C-C269-473B-AEA4-77AF89FB7424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E463A7C-C269-473B-AEA4-77AF89FB7424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E463A7C-C269-473B-AEA4-77AF89FB7424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD43D2F-AE82-4D4B-8154-226DF2233141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD43D2F-AE82-4D4B-8154-226DF2233141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD43D2F-AE82-4D4B-8154-226DF2233141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD43D2F-AE82-4D4B-8154-226DF2233141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC849AD-D0DE-4093-BDCA-4A24C0304CC3}
+	EndGlobalSection
+EndGlobal
